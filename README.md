@@ -63,6 +63,3 @@ Mengintegrasikan layanan aplikasi dengan database (MySQL/PostgreSQL) dan caching
 
 ---
 
-## Live Demo & Links
--  **Live Demo**: `https://app.namadomainanda.com` *(Atau IP VPS)*
--  **GitHub Repository**: `https://github.com/username/project-name`
